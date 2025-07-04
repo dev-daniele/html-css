@@ -1,2 +1,2 @@
 # HTML5
- Curso HTML5 (Curso em video-Gustavo Guanabara)
+ Curso HTML5 e CSS3 (Curso em video-Gustavo Guanabara)
